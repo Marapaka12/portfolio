@@ -31,8 +31,8 @@ const siteProps = {
   instagram: "microsoft",
   linkedIn: "Marapaka Rani",
   medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  twitter: "",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
